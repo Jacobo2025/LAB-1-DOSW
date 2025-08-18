@@ -96,3 +96,21 @@ Respuesta: esta vez decidimos editar la misma línea.
 
 9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
 
+Respuesta: Si fue posible conectar git/github con IntelliJ.
+
+Lo primero que apereció fue esto:
+
+![Pantalla principal](Capturas/21.png)
+
+Luego salió esto:
+
+![Pantalla principal](Capturas/22.png)
+
+Aquí IntelliJ nos permite elegir con cuál versión quedarnos:
+
+![Pantalla principal](Capturas/23.png)
+
+Se decide quedarse con la version del Owner.
+
+![Pantalla principal](Capturas/24.png)
+
