@@ -56,3 +56,41 @@ Owner: María Paula Rodriguez
 Collaborator: Jacobo Diaz
 
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
+
+![Pantalla principal](Capturas/10.png)
+
+3. El owner le comparte la url via Teams al colaborador
+
+4. El colaborador acepta la invitación al repositorio
+   
+![Pantalla principal](Capturas/31.png)
+
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+
+La edición del owner:
+
+
+![Pantalla principal](Capturas/13.png)
+
+La edición del Colaborador
+
+![Pantalla principal](Capturas/16.png)
+
+6. ¿Que sucedió?
+
+Respuesta: El que se demoró más no pudo hacer el commit y salió este error:
+
+![Pantalla principal](Capturas/17.png)
+
+![Pantalla principal](Capturas/18.png)
+
+7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente. Como resolver Conflictos GitHub
+
+Respuesta: en nuestro caso no salieron ninguno de esos simbolos.
+
+8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+Respuesta: esta vez decidimos editar la misma línea.
+
+![Pantalla principal](Capturas/20.png)
+
