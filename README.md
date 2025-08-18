@@ -94,3 +94,5 @@ Respuesta: esta vez decidimos editar la misma línea.
 
 ![Pantalla principal](Capturas/20.png)
 
+9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
+
