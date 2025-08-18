@@ -5,7 +5,7 @@ Maria Paula Rodriguez
 Jacobo Diaz Alvarado
 
 ## Soluciones
-### Primer punto
+### PARTE I
 1. Crea un repositorio localmente.
 
 ![Pantalla principal](Capturas/1.png)
@@ -46,3 +46,5 @@ Jacobo Diaz Alvarado
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 
 ![Pantalla principal](Capturas/7.png)
+
+### PARTE II
