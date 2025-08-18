@@ -78,7 +78,7 @@ La edición del Colaborador
 
 6. ¿Que sucedió?
 
-Respuesta: El que se demoró más no pudo hacer el commit y salió este error:
+Respuesta: Él que se demoró más no pudo hacer el commit y salió este error:
 
 ![Pantalla principal](Capturas/17.png)
 
