@@ -48,3 +48,11 @@ Jacobo Diaz Alvarado
 ![Pantalla principal](Capturas/7.png)
 
 ### PARTE II
+1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+
+Owner: María Paula Rodriguez
+
+
+Collaborator: Jacobo Diaz
+
+2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
